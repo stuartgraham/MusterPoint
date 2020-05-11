@@ -419,7 +419,7 @@ def main():
     print('# SYSTEM OK - LISTENING                   #')
     print('###########################################')
     # Simulate listener
-    sleep(9999999999999)
+    sleep(86400)
  
 if __name__ == "__main__":
     """ This is executed when run from the command line """
